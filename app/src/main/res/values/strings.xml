@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ex7Client</string>
+    <string name="intro">This app demonstrates the call to other Activities in other applications using the Intent object</string>
+</resources>
